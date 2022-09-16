@@ -1,6 +1,8 @@
 # Stanisław Puławski
 ## [Github @sosnus](https://github.com/sosnus)
+
 ## [Twitter @StaPulawski](https://twitter.com/stapulawski)
+
 ## [LinkedIn /spulawski](https://www.linkedin.com/in/spulawski/)
 
 <!--
