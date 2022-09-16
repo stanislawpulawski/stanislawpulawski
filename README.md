@@ -1,5 +1,5 @@
 # Stanisław Puławski
-## [Github @sosnus](https://github.com/sosnus)
+## [Github @sosnus](https://github.com/sosnus) <= Everything is here!
 
 ## [Twitter @StaPulawski](https://twitter.com/stapulawski)
 
