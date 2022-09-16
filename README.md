@@ -1,7 +1,10 @@
-### Hi there 👋
+# Stanisław Puławski
+## [Github @sosnus](https://github.com/sosnus)
+## [Twitter @StaPulawski](https://twitter.com/stapulawski)
+## [LinkedIn /spulawski](https://www.linkedin.com/in/spulawski/)
 
 <!--
-**stanislawpulawski/stanislawpulawski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sosnus/sosnus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
